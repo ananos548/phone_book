@@ -1,0 +1,42 @@
+[
+  {
+    "last_name": "Иванов",
+    "first_name": "Иван",
+    "middle_name": "Иванович",
+    "organization": "Компания А",
+    "work_phone": "123-45-67",
+    "personal_phone": "89012345678"
+  },
+  {
+    "last_name": "Петров",
+    "first_name": "Петр",
+    "middle_name": "Петрович",
+    "organization": "Компания Б",
+    "work_phone": "987-65-43",
+    "personal_phone": "89098765432"
+  },
+  {
+    "last_name": "Сидоров",
+    "first_name": "Сидор",
+    "middle_name": "Сидорович",
+    "organization": "Компания В",
+    "work_phone": "456-78-90",
+    "personal_phone": "89045678901"
+  },
+  {
+    "last_name": "Кузнецов",
+    "first_name": "Николай",
+    "middle_name": "Петрович",
+    "organization": "Компания Г",
+    "work_phone": "222-33-44",
+    "personal_phone": "89022233445"
+  },
+  {
+    "last_name": "Лебедева",
+    "first_name": "Анна",
+    "middle_name": "Владимировна",
+    "organization": "Компания Д",
+    "work_phone": "777-88-99",
+    "personal_phone": "89077788999"
+  }
+]
